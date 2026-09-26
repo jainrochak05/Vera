@@ -1,0 +1,21 @@
+.env
+<<<<<<< HEAD
+.env.local
+.venv/
+venv/
+judge_simulator.py
+test.py
+__pycache__/
+*.pyc
+.DS_Store
+=======
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
+results/
+expanded/
+>>>>>>> e571242 (Initial commit for Vera FastAPI backend)
