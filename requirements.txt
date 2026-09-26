@@ -159,7 +159,7 @@ pluggy==1.6.0
 prometheus_client==0.21.1
 prompt_toolkit==3.0.48
 proto-plus==1.28.0
-protobuf==4.25.9
+protobuf>=5.0,<7.0
 psutil==6.1.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
